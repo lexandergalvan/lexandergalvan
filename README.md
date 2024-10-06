@@ -1,8 +1,18 @@
 ### 👋 Hi, I’m Alexander 
+
+![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
+
+
+
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lexandergalvan&show_icons=true&theme=dracula)](https://github.com/lexandergalvan/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lexandergalvan&layout=compact&theme=dracula)](https://github.com/lexandergalvan/github-readme-stats)
+
+
 
 ### Skills
 
